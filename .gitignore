@@ -1,0 +1,6 @@
+
+*.properties
+
+*.xml
+
+public_html/conf/strava-keys.js
