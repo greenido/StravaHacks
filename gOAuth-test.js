@@ -1,6 +1,12 @@
 /**
 * Simple OAuth with Strava API.
-*
+* This current script is fetching from Strava:
+  data.id, data.start_date_local , data.location_city, data.location_country , 
+  data.name, data.distance, data.moving_time, data.elapsed_time ,  data.total_elevation_gain ,data.kudos_count, data.average_speed,
+  data.achievement_count, data.type 
+  
+  and put it in a 'master sheet'.
+  
 * Author: Ido Green
 * Date: Sep 2014
 *
